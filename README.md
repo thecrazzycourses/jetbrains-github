@@ -1,4 +1,4 @@
 # jetbrains-github
 
 1. Add Comment in master branch
-2. Added branch main-2
+2. Added branch main-3
